@@ -192,6 +192,7 @@ if (!$readonly) {
     </div>
   </div>
 
+  
   <script>
     function click_upload(id) {
       document.getElementById(id).click();
