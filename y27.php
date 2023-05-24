@@ -162,7 +162,8 @@ if (!$readonly) {
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 mt-2">
           <div class="flex flex-col gap-2 bg-base-100 rounded-lg p-4">
             <label class="label gap-2">
-              <span class="label-text flex-1">活動文宣：</span>
+              <span class="label-text flex-1">活動文宣：提供活動報導或媒體報導內容
+</span>
               <span class="label-text-alt text-error">必填欄位</span>
             </label>
             <?php if (!$readonly) { ?>
