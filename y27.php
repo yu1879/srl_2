@@ -146,7 +146,7 @@ if (!$readonly) {
           </div>
           <div class="flex flex-col gap-2 bg-base-100 rounded-lg p-4">
             <label class="label gap-2">
-              <span class="label-text flex-1">影片檔案上傳：</span>
+              <span class="label-text flex-1">成果影片：每年1支成果影片3-5分鐘</span>
             </label>
             <?php if (!$readonly) { ?>
               <input id="video" class="file-input file-input-bordered file-input-sm w-full" type="file" name="video" onChange="set_text('video')">
